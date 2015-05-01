@@ -1,0 +1,14 @@
+.container{
+  margin: 30px auto;
+}
+
+p{
+  /*margin: 10px 0;*/
+}
+
+.tab-content{
+  padding: 10px 15px;
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+}
